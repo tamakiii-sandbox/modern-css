@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/tamakiii-sandbox/modern-css/issues"
   },
-  "homepage": "https://github.com/tamakiii-sandbox/modern-css#readme"
+  "homepage": "https://github.com/tamakiii-sandbox/modern-css#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
 }
